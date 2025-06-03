@@ -8,4 +8,6 @@
 | 8-10 | 4.9 4.16 4.23 | complete project for goverment |  |  |
 | 11 | 4.30 | leave |  |  |
 | 12 | 5.7 | complete project for goverment | | |
-| 13 | 
+| 13 | 5.14 | 吕瑞森 | [\[1\]AI models collapse when trained on recursively generated data](https://github.com/NLPcourse/report/blob/main/Week%2013/AI%20models%20collapse%20when%20trained%20on%20recursively%20generated%20data.pdf) <br> [\[2\]LARGE LANGUAGE MODELS CAN SELF-IMPROVE in Long-context reasoning](https://github.com/NLPcourse/report/blob/main/Week%2013/LARGE%20LANGUAGE%20MODELS%20CAN%20SELF-IMPROVE%20in%20Long-context%20reasoning.pdf) <br> [\[3\]TTRL Test-Time Reinforcement Learning](https://github.com/NLPcourse/report/blob/main/Week%2013/TTRL%20Test-Time%20Reinforcement%20Learning.pdf) <br> | [slide](https://github.com/NLPcourse/report/blob/main/Week%2013/TTRL.pptx) |
+| 14 | 5.21 | leave |  |  |
+| 15 | 5.28 | 吕瑞森 | 
